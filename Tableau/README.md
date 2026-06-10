@@ -1,4 +1,4 @@
-# Tableau Capstone Project - 
+# Tableau Project - 
 Logistics Dashboard
 
 ## Project Summary
